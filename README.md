@@ -10,7 +10,7 @@ This project provisions an AWS EC2 instance and deploys a small REST web service
 
 ### 1. Clone Repo
 
-https://github.com/nagasandeepg/Cloud_computing.git
+https://github.com/nagasandeepg/CS554_Cloud_Computing.git
 
 ### 2. Install Dependencies
 
